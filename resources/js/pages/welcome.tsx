@@ -48,8 +48,12 @@ export default function Welcome() {
                                 by Zidhan Raffly
                             </p>
                         </div>
-                        <div className="relative -mb-px aspect-[335/376] w-full shrink-0 overflow-hidden rounded-t-lg bg-[#fff2f2] lg:mb-0 lg:-ml-px lg:aspect-auto lg:w-[438px] lg:rounded-t-none lg:rounded-r-lg dark:bg-[#1D0002]">
-                        <img src="" alt="Logo" />
+                        <div className="relative -mb-px w-full shrink-0 overflow-hidden rounded-t-lg bg-[#fff2f2] lg:mb-0 lg:-ml-px lg:w-[438px] lg:rounded-t-none lg:rounded-r-lg dark:bg-[#1D0002]">
+                            <img
+                                src="https://images.unsplash.com/photo-1579820010410-c10411aaaa88?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlYWN0fGVufDB8fDB8fHww"
+                                alt="Logo"
+                                className="h-auto w-full object-cover"
+                            />
                         </div>
                     </main>
                 </div>
